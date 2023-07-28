@@ -31,8 +31,8 @@ echo.								>> [RES]_%COMPUTERNAME%_NT.txt 2>nul
 
 echo ################# OS information   #######################	>> [RES]_%COMPUTERNAME%_NT.txt 2>nul
 echo.								>> [RES]_%COMPUTERNAME%_NT.txt 2>nul
-systeminfo							>> [RES]_%COMPUTERNAME%_NT.txt 2>nul
-type [RES]_%COMPUTERNAME%_NT.txt | find /I "OS" 		>> [RES]_%COMPUTERNAME%_NT.txt 2>nul
+systeminfo							>> [RES]_%COMPUTERNAME%_Info.txt 2>nul
+type [RES]_%COMPUTERNAME%_Info.txt | find /I "OS" 		>> [RES]_%COMPUTERNAME%_NT.txt 2>nul
 echo.								>> [RES]_%COMPUTERNAME%_NT.txt 2>nul
 echo OS Information 						>> [RES]_%COMPUTERNAME%_NT.txt 2>nul
 
