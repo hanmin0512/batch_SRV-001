@@ -1,0 +1,82 @@
+
+Host Name:                 xxxxxx-xxxxxxx
+OS Name:                   Microsoft Windows Server 2016 Datacenter
+OS Version:                xx.x.xxxxxx N/A Build 14393
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Server
+OS Build Type:             Multiprocessor Free
+Registered Owner:          xxx
+Registered Organization:   xxxxxx.com
+Product ID:                00376-40000-00000-AA753
+Original Install Date:     6/23/2023, 8:07:39 AM
+System Boot Time:          7/28/2023, 12:13:20 PM
+System Manufacturer:       Xen
+System Model:              HVM domU
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 63 Stepping 2 GenuineIntel ~2400 Mhz
+BIOS Version:              Xen 4.11.amazon, 8/24/2006
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC) Coordinated Universal Time
+Total Physical Memory:     1,024 MB
+Available Physical Memory: 211 MB
+Virtual Memory: Max Size:  2,353 MB
+Virtual Memory: Available: 1,210 MB
+Virtual Memory: In Use:    1,143 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\EC2AMAZ-HQGFFQG
+Hotfix(s):                 40 Hotfix(s) Installed.
+                           [01]: KB5027123
+                           [02]: KB3176936
+                           [03]: KB3186568
+                           [04]: KB3192137
+                           [05]: KB3199209
+                           [06]: KB3199986
+                           [07]: KB4013418
+                           [08]: KB4023834
+                           [09]: KB4035631
+                           [10]: KB4049065
+                           [11]: KB4089510
+                           [12]: KB4093137
+                           [13]: KB4132216
+                           [14]: KB4465659
+                           [15]: KB4485447
+                           [16]: KB4486129
+                           [17]: KB4498947
+                           [18]: KB4503537
+                           [19]: KB4509091
+                           [20]: KB4512574
+                           [21]: KB4520724
+                           [22]: KB4521858
+                           [23]: KB4535680
+                           [24]: KB4540723
+                           [25]: KB4550994
+                           [26]: KB4562561
+                           [27]: KB4565912
+                           [28]: KB4576750
+                           [29]: KB4589210
+                           [30]: KB5001078
+                           [31]: KB5001402
+                           [32]: KB5005698
+                           [33]: KB5011264
+                           [34]: KB5011570
+                           [35]: KB5014026
+                           [36]: KB5016058
+                           [37]: KB5017095
+                           [38]: KB5017396
+                           [39]: KB5023788
+                           [40]: KB5027219
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: xxx xx xxxxxxx xxxxxx
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     xxx.xx.xx.x
+                                 IP address(es)
+                                 [01]: xxx.xx.xx.xxx
+                                 [02]: xxxx::xxxx:xxxx:xxxx:xxxx
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.

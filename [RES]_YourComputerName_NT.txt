@@ -1,0 +1,41 @@
+########################################################## 
+############### windows script	#######################	
+########################################################## 
+								
+								
+################# JOB TIMES      #########################	
+								
+								
+########################################################## 
+								
+								
+################# OS information   #######################	
+								
+Host Name:                 xxxxxx-xxxxxxx
+OS Name:                   Microsoft Windows Server 2016 Datacenter
+OS Version:                xx.x.xxxx N/A Build 14393
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Server
+OS Build Type:             Multiprocessor Free
+BIOS Version:              Xen 4.11.amazon, 8/24/2006
+								
+OS Information 						
+########################################################## 
+								
+								
+###################### START  ############################	
+"SRV-001 START INSPECTING"			 			
+								
+"[SRV-001] get community string weakness " 		
+								
+"# rule : value changes and using community string character + Integer = 10 character raise good" 
+.								
+"# 1.contact service" 						
+   SNMP Service
+								
+"# 2. contact registre setting"				
+ 
+ 
+"[SRV-001] END"						
+.								
+########################################################## 
