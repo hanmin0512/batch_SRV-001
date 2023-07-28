@@ -18,7 +18,8 @@ OS Manufacturer:           Microsoft Corporation
 OS Configuration:          Standalone Server
 OS Build Type:             Multiprocessor Free
 BIOS Version:              Xen 4.11.amazon, 8/24/2006
-								
+Domain:                    WORKGROUP
+
 OS Information 						
 ########################################################## 
 								
