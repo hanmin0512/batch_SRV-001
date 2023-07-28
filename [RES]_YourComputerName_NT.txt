@@ -35,7 +35,10 @@ OS Information
    SNMP Service
 								
 "# 2. contact registre setting"				
- 
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SNMP\Parameters\ValidCommunities
+    public    REG_DWORD    0x4
+
  
 "[SRV-001] END"						
 .								
