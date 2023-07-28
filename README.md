@@ -12,6 +12,14 @@
 - batch file
 - service : SNMP (UDP : 161)
 
+## 배치파일 로직
+- [RES]_YourComputerName_NT.txt 에 각종 출력문 기록 (배치파일 실행한 시간, 날짜 등)
+- [RES]_YourCOmputerName_Info.txt에 서버 컴퓨터 시스템 정보 기록
+- [RES]_YourCOmputerName_Info.txt에 서버 컴퓨터의 OS, Domain 정보 검색한 결과를 YourComputerName_NT.txt에 기록
+- 실행중인 서비스 중 SNMP가 있는지 검색하여 [RES]_YourComputerName_NT.txt에 기록
+- 레지스트리에 커리를 보낸 결과를 [RES]_YourComputerName_NT.txt에 기록
+
+
 ## 설정 및 실험
 - SNMP install <br>
   <img width="784" alt="1" src="https://github.com/hanmin0512/batch_SRV-001/assets/37041208/dbe62acd-de53-4222-a90e-754cf0036f0c">
