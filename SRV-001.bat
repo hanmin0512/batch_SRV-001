@@ -55,7 +55,7 @@ echo.								>> [RES]_%COMPUTERNAME%_NT.txt 2>nul
 
 echo "# 2. contact registre setting"				>> [RES]_%COMPUTERNAME%_NT.txt 2>nul
 
-reg query "HKLM\SYSTEM\CurrentControlSet\Services\SNMP\Parameters\TrapConfiguration" \s >> [RES]_%COMPUTERNAME%_NT.txt 2>nul
+reg query "HKLM\SYSTEM\CurrentControlSet\Services\SNMP\Parameters\ValidCommunities" /s >> [RES]_%COMPUTERNAME%_NT.txt
 
 echo. >> [RES]_%COMPUTERNAME%_NT.txt 2>nul
 echo. >> [RES]_%COMPUTERNAME%_NT.txt 2>nul
