@@ -39,6 +39,19 @@
 - Created Result TEXT files <br>
 <img width="88" alt="스크린샷 2023-07-29 오전 12 51 38" src="https://github.com/hanmin0512/batch_SRV-001/assets/37041208/2b2c8e07-e2bf-417b-9541-338dc1463f75">
 
-- 결과 파일은 위 레포지토리에서 볼 수 있습니다.
+- 결과
+- ![0](https://github.com/hanmin0512/batch_SRV-001/assets/37041208/642122bd-ab4b-440f-b871-2092027504fe)
+
+
+## 조치 방법
+- 주요정보통신기반시설 기술적 취약점 분석 평가 상세 가이드에 나온 내용대로 조치를 취한다.
+- ![1](https://github.com/hanmin0512/batch_SRV-001/assets/37041208/a13768bc-15e5-4188-a60e-386a8dc7a24f)
+- 조치 화면
+- ![2](https://github.com/hanmin0512/batch_SRV-001/assets/37041208/37bcba51-e881-4ed4-8ba0-f377c8358f64)
+- 조치 후 점검
+- ![3](https://github.com/hanmin0512/batch_SRV-001/assets/37041208/adc855ce-8b4e-4fc3-a84c-2cb4cd0311d1)
+
+
+
 
 
